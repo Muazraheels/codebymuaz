@@ -190,7 +190,7 @@ input:focus, textarea:focus, select:focus, button:focus {
 	background-color: #000000;
 }
 .prt_home_wrapper{
-	background-image:url(../images/header/bg2-01.jpg);
+	background-image:url(bg2-01.jpg);
 	background-position: center center;
 	background-repeat:no-repeat;
 	background-size:cover;
@@ -204,7 +204,7 @@ input:focus, textarea:focus, select:focus, button:focus {
 	font-size:150px;
 	color: #000000;
 	font-weight:bold;
-	background: url(../images/content/white.jpeg) no-repeat;
+	background: url(white.jpeg) no-repeat;
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
     background-size: cover;
@@ -843,13 +843,13 @@ input:focus, textarea:focus, select:focus, button:focus {
     transition: all 0.3s;
 }
 .prt_contact_details_box.details_box1{
-	background-image:url(../images/header/PHONEICON-01.jpg);
+	background-image:url(PHONEICON-01.jpg);
 }
 .prt_contact_details_box.details_box2{
-	background-image:url(../images/header/email-01.jpg);
+	background-image:url(email-01.jpg);
 }
 .prt_contact_details_box.details_box3{
-	background-image:url(../images/header/ADDRESS-01.jpg);
+	background-image:url(ADDRESS-01.jpg);
 }
 /*---------- Services css Start -------*/
 .prt_services_wrapper{
@@ -990,7 +990,7 @@ input:focus, textarea:focus, select:focus, button:focus {
 .prt_couter_wrapper{
     display: inline-block;
     width: 100%;
-	background-image:url(../images/content/1920x644.jpeg);
+	background-image:url(1920x644.jpeg);
 	background-position:center center;
 	background-repeat:no-repeat;
 	background-size:cover;
@@ -1054,21 +1054,21 @@ input:focus, textarea:focus, select:focus, button:focus {
 	text-align:center;
 }
 #circles-1{
-	background-image:url(../images/content/html.jpg);
+	background-image:url(html.jpg);
 	border-radius: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 #circles-2{
-	background-image:url(../images/header/css\ and\ js-01-01.jpg);
+	background-image:url(css\ and\ js-01-01.jpg);
 	border-radius: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 #circles-3{
-	background-image:url(../images/header/timeline-01.jpg);
+	background-image:url(timeline-01.jpg);
 	border-radius: 100%;
     background-position: center;
     background-repeat: no-repeat;
